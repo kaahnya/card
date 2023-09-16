@@ -1,16 +1,16 @@
-## 💜 Olá, meu nome é <strong>{Kakah}!</strong>
+## 💜 Author <strong>{Kakah}!</strong>
 
-Desafio - Portifólio 1.0
+Challenge - Portfolio 1.0   
 
-💬 Projeto - CARDS BEN10
+💬 Project - BEN10 CARD
 
-## 🚀 Ferramentas usadas ↴
+## 🚀 Tools used ↴
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 
-## 🚀 Sites usados para desenvolvimento do projeto ↴
+## 🚀 Websites used for project development ↴
 
-(https://app.leonardo.ai/) - imagens IA
+(https://app.leonardo.ai/) - IA images
 
 (https://animate.style/) - animate css
