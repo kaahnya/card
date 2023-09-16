@@ -2,7 +2,7 @@
 
 Challenge - Portfolio 1.0   
 
-💬 Project - BEN10 CARD
+💬 Project - BEN10 CARD - visit website in https://kaahnya.github.io/card/
 
 ## 🚀 Tools used ↴
 
