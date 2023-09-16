@@ -112,3 +112,34 @@ p {
       transform: scaleX(1.1);
   }
 }
+
+.header{
+  backdrop-filter: blur(16px) saturate(180%);
+  -webkit-backdrop-filter: blur(16px) saturate(180%);
+  background-color: rgba(13, 48, 18, 0.25);
+  border: 1px solid rgb(255, 255, 255);  
+  filter: drop-shadow(0 10px 10px rgba(255, 255, 255, 0.745));
+  display: flex;
+  text-align: center;
+  width: 100%px;
+  cursor: pointer;
+  transition: all .2s ease-in-out;
+  box-shadow: 0px 0px 10px 3px #8bff87;
+  height: 200px;
+}
+
+.logo{
+  border-radius: 100%;
+    border: 1px solid #ffffff22;
+    width: 190px;
+    height: 190px;
+    object-fit: cover;
+    margin-left: 50px;
+    margin-top: 3px;
+}
+
+.title{
+  font-size: 50px;
+  margin-left: 50px;
+  margin-top: 70px;
+}
